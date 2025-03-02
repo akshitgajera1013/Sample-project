@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    height:180px;
+    width:180px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin:1.5rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.first{
+    background-color: #f99b45;
+}
+
+.second{
+    background-color: #d95980;
+}
+
+.third{
+    background-color: #819ff9;
+}
+
+.four{
+    background-color: #63aac0;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: green;
+}
