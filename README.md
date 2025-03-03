@@ -1,4 +1,4 @@
 # Sample-project
-# First is small spotify webite in HTML-CSS.
-# Second is Simon Play Game based on JAVA-SCRIPT.
-# Third is To Do App which is based on HTML-CSS-JS.
+# Small spotify webite in HTML-CSS.
+# Simon Play Game based on JAVA-SCRIPT.
+# To Do App which is based on HTML-CSS-JS.
